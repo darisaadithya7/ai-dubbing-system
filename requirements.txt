@@ -1,0 +1,11 @@
+streamlit
+openai-whisper
+transformers
+sentencepiece
+sacremoses
+moviepy
+TTS
+librosa
+soundfile
+pydub
+torch
