@@ -1,0 +1,13 @@
+streamlit
+openai-whisper
+transformers
+sentencepiece
+sacremoses
+moviepy==1.0.3
+gtts
+librosa
+soundfile
+pydub
+torch==2.1.0+cpu --extra-index-url https://download.pytorch.org/whl/cpu
+numpy
+googletrans==4.0.0-rc1
